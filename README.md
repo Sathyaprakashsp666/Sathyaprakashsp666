@@ -30,25 +30,27 @@
  <br/>
  <hr/>
  
-### 🤝🏻 &nbsp;Connect with Me
-    
-  <div align="left">
- <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b/">
-   <img src="https://freepngimg.com/thumb/linkedin/9-2-linkedin-free-download-png-thumb.png" width="50px"/> </a>
-	
-<a href="https://twitter.com/745c38649fd049f/">
-   <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/logo-dark-twitter-png-20.png" width="50px"/> </a>
- </div>
-  <hr/>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
  <div >
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathyaprakashsp666&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sathya" width="380" /></p>
 
 <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Sathyaprakashsp666&show_icons=true&locale=en&theme=tokyonight" alt="Sathya" width="380" /></p>
-	 </div>
+</div>
 
-<hr>
+<hr/>
+<br/><br/><br/><br/><br/><br/>
+
+### 🤝🏻 &nbsp;Connect with Me
+    
+  <div align="center">
+ <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b/">
+   <img src="https://freepngimg.com/thumb/linkedin/9-2-linkedin-free-download-png-thumb.png" width="50px"/> </a>
+	
+<a href="https://twitter.com/745c38649fd049f/">
+   <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/logo-dark-twitter-png-20.png" width="50px"/> </a>
+ </div>
 
 ![Sathya Praksha P](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
