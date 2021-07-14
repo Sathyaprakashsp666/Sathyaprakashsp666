@@ -1,12 +1,18 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- // ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<div align="center" >
+	
+![Sathya Prakasha P](https://en.bloggif.com/tmp/afe3c623e21b297195e60f60f901b60a/text.gif?1626235010)
+	
+</div>
+
 
 
 - 🌱 I’m currently learning MERN stack
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
+ <hr/>
 
+### 🛠 Interests/Skills
 
-
-## 🛠 Interests/Skills
- <br/>
  
 <div align="center" >
   
@@ -22,8 +28,9 @@
   </div>
   
  <br/>
+ <hr/>
  
- ##  Let's Connect
+### 🤝🏻 &nbsp;Connect with Me
     
   <div align="left">
  <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b/">
@@ -34,11 +41,14 @@
  </div>
   <hr/>
 
- <div align:"center">
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathyaprakashsp666&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sathya" width="380" /></p>
+### ⚙️ &nbsp;GitHub Analytics
+ <div >
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathyaprakashsp666&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sathya" width="380" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Sathyaprakashsp666&show_icons=true&locale=en&theme=tokyonight" alt="Sathya" width="380" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Sathyaprakashsp666&show_icons=true&locale=en&theme=tokyonight" alt="Sathya" width="380" /></p>
 	 </div>
 
 <hr>
+
+![Sathya Praksha P](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
