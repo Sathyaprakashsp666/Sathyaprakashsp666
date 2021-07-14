@@ -51,15 +51,15 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
-    
-  <div align="center">
- <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b/">
-   <img src="https://freepngimg.com/thumb/linkedin/9-2-linkedin-free-download-png-thumb.png" width="50px"/> </a>
-	
-<a href="https://twitter.com/745c38649fd049f/">
-   <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/logo-dark-twitter-png-20.png" width="50px"/> </a>
- </div>
+ <p align="center">
+  <i>You can connect with me here!</i>
+  <p align="center">
+    <a href="https://twitter.com/745c38649fd049f/" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+    <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/Sathyaprakashsp666" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<!--     <a href="" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a> -->
+  </p>
+</p>
 
 ![Sathya Praksha P](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
