@@ -50,7 +50,13 @@
 <hr/>
 
 <br/><br/><br/><br/><br/><br/>
+<p align="center">
+    <a href="https://github.com/Sathyaprakashsp666/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathya's's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathyaprakashsp666&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+<!-- <a href="https://github.com/Sathyaprakashsp666/github-readme-activity-graph"><img alt=" Sathya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sathyaprakashsp666&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 
  <p align="center">
