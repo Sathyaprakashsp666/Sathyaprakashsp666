@@ -10,7 +10,16 @@
 
 
 - 🌱 I’m currently learning MERN stack
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
+- 👨‍💻 Portfolio - [https://sathya-prakash-portfolio.netlify.app](https://sathya-prakash-portfolio.netlify.app)
+
+- 📫 How to reach me - **sathyaprakash.sp.6@gmail.com**
+
+<!-- - 📄 Resume -  []() -->
+ <p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
+</p>
+
+<!-- * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming -->
  <hr/>
 
 ### 🛠 Interests/Skills
