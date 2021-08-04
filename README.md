@@ -14,7 +14,7 @@
 
 - 📫 How to reach me - **sathyaprakash.sp.6@gmail.com**
 
-<!-- - 📄 Resume -  []() -->
+- 📄 Resume -  [https://drive.google.com/file/d/1jeu1liZzFKwpfnz72QzDyZjtohPb3Qoo/view?usp=sharing](https://drive.google.com/file/d/1jeu1liZzFKwpfnz72QzDyZjtohPb3Qoo/view?usp=sharing)
  <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
 </p>
