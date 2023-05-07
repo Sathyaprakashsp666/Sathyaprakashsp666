@@ -11,7 +11,8 @@
 
 
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 Software Dev from India working as a Software Engineer @ Konverge.ai
+- Recently I have graduatedin Full Stack Web Development from Masai School.
 - 👨‍💻 Portfolio - [https://sathya-prakash-portfolio.netlify.app](https://sathya-prakash-portfolio.netlify.app)
 
 - 📫 How to reach me - **sathyaprakash.sp.6@gmail.com**
