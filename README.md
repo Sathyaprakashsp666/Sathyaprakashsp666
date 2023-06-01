@@ -16,6 +16,7 @@
 - 👨‍💻 Portfolio - [https://sathya-prakash-portfolio.netlify.app](https://sathya-prakash-portfolio.netlify.app)
 
 - 📫 How to reach me - **sathyaprakash.sp.6@gmail.com**
+- Linkedin - [https://www.linkedin.com/in/sathya-prakash-p-2990b412b/](https://www.linkedin.com/in/sathya-prakash-p-2990b412b/)
 
 - 📄 Resume -  [https://drive.google.com/drive/folders/1eOsIp57UpTGj8mv-K40RS90lUeSiIXBJ?usp=drive_link](https://drive.google.com/drive/folders/1eOsIp57UpTGj8mv-K40RS90lUeSiIXBJ?usp=drive_link)
  <p align="center">
