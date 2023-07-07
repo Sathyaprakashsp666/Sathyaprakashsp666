@@ -2,7 +2,6 @@
 
 <div align="center" >
 
-
 ![Sathya Prakasha P](https://github.com/Sathyaprakashsp666/Sathyaprakashsp666/blob/main/coollogo_com-15304270.png)
 	
 	
