@@ -11,7 +11,7 @@
 
 
 
-- 🌱 Software Dev from India working as a Software Engineer @ Konverge.ai
+- 🌱 Software Dev from India working as a Software Engineer @ 	Genpro Research
 - Recently I have graduatedin Full Stack Web Development from Masai School.
 - 👨‍💻 Portfolio - [https://sathya-prakash-portfolio.netlify.app](https://sathya-prakash-portfolio.netlify.app)
 
