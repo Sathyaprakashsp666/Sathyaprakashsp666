@@ -13,7 +13,7 @@
 
 
 - 🌱 Software Dev from India working as a Software Engineer @ 	Genpro Research
-- Recently I have graduatedin Full Stack Web Development from Masai School.
+- Recently I have graduated in Full Stack Web Development from Masai School.
   
 - 👨‍💻 Portfolio - [https://sathyaprakash-06.vercel.app/](https://sathyaprakash-06.vercel.app/)
 
