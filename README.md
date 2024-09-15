@@ -16,7 +16,7 @@
 - Recently I have graduatedin Full Stack Web Development from Masai School.
 - 
 - 👨‍💻 Projects - [https://www.crio.do/learn/portfolio/sathyaprakash-sp-6/](https://www.crio.do/learn/portfolio/sathyaprakash-sp-6/)
-- 👨‍💻 Portfolio - [https://sathya-prakash-portfolio.netlify.app](https://sathya-prakash-portfolio.netlify.app](https://sathyaprakash-06.vercel.app/))
+- 👨‍💻 Portfolio - [[https://www.crio.do/learn/portfolio/sathyaprakash-sp-6/](https://www.crio.do/learn/portfolio/sathyaprakash-sp-6/](https://sathyaprakash-06.vercel.app/))
 
 - 📫 How to reach me - **sathyaprakash.sp.6@gmail.com**
 - Linkedin - [https://www.linkedin.com/in/sathya-prakash-p-2990b412b/](https://www.linkedin.com/in/sathya-prakash-p-2990b412b/)
