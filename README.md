@@ -1,91 +1,69 @@
-### Hey there I'm<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hey there, I'm Sathya Prakasha P 👋</h1>
 
-<div align="center" >
-
-![Sathya Prakasha P](https://github.com/Sathyaprakashsp666/Sathyaprakashsp666/blob/main/coollogo_com-15304270.png)
-
-
-
-
-</div>
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="430" />
-
-
-
-
-- 🌱 Software Dev from India working as a Software Engineer @ 	Genpro Research
-- Recently I have graduated in Full Stack Web Development from Masai School.
-  
-- 👨‍💻 Portfolio - [https://sathyaprakash-06.vercel.app/](https://sathyaprakash-06.vercel.app/)
-
-- 📫 How to reach me - **sathyaprakash.sp.6@gmail.com**
-- Linkedin - [https://www.linkedin.com/in/sathya-prakash-p-2990b412b/](https://www.linkedin.com/in/sathya-prakasha-p-2990b412b/)
-
-- 📄 Resume -  [https://drive.google.com/drive/folders/1eOsIp57UpTGj8mv-K40RS90lUeSiIXBJ?usp=drive_link](https://drive.google.com/drive/folders/1eOsIp57UpTGj8mv-K40RS90lUeSiIXBJ?usp=drive_link)
- <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
-</p>
-
-<!-- * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming -->
- <hr/>
-
-### 🛠 Interests/Skills
-
- 
-<div align="center" >
-  
-  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  
-  
-  </div>
-  
- <br/>
- <hr/>
-  <hr/>
- 
-
-
-### ⚙️ &nbsp;GitHub Analytics
- <div >
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sathyaprakashsp666&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sathya" width="380" /></p>
-
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Sathyaprakashsp666&show_icons=true&locale=en&theme=tokyonight" alt="Sathya" width="380" /></p>
-</div>
-
-<!-- <div align="center">
-<a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align:"left"  src="https://github-readme-streak-stats.herokuapp.com/?user=Sathyaprakashsp666&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
-	</div>
- -->
-<hr/>
-
-
-<br/><br/><br/><br/><br/><br/>
 <p align="center">
-    <a href="https://github.com/Sathyaprakashsp666/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sathya's's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathyaprakashsp666&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=UI+Engineer+@+Armada.ai;Frontend+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A;Tech+Explorer+%F0%9F%9A%80" />
 </p>
 
-<!-- <a href="https://github.com/Sathyaprakashsp666/github-readme-activity-graph"><img alt=" Sathya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sathyaprakashsp666&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+</div>
 
+---
 
- <p align="center">
-  <i>You can connect with me here!</i>
-  <p align="center">
-    <a href="https://twitter.com/745c38649fd049f/" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-    <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://github.com/Sathyaprakashsp666" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<!--     <a href="" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a> -->
-  </p>
+### 👨‍💻 About Me
+
+- 🧠 Passionate UI Engineer building scalable, performant frontends  
+- 💼 Currently working at [Armada.ai](https://armada.ai)  
+- 🎓 Full Stack Web Development graduate from **Masai School**  
+- 🌍 Based in India  
+- 🧰 Love working with **React**, **TypeScript**, and all things UI  
+- 📫 Reach me at: `sathyaprakash.sp.6@gmail.com`  
+- 🧪 Portfolio: [sathyaprakash-06.vercel.app](https://sathyaprakash-06.vercel.app)  
+- 📄 Resume: [View Resume](https://drive.google.com/drive/folders/1eOsIp57UpTGj8mv-K40RS90lUeSiIXBJ?usp=drive_link)
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,nodejs,mongodb,git,github,vite" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathyaprakashsp666&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyaprakashsp666&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sathyaprakashsp666&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-![Sathya Praksha P](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+---
 
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sathya-prakasha-p-2990b412b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sathyaprakashsp666" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sathyaprakash.sp.6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
